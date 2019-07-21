@@ -1,0 +1,3 @@
+ChromeDriver=D:\\Chrome\\chromedriver.exe
+URL=http://demosite.center/wordpress/wp-login.php
+ExcelPath=D:\\SeleniumTestAutomation\\LearnSeleniumDemos\\Configuration\\InputData.xlsx
